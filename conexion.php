@@ -9,7 +9,7 @@ $conn = mysqli_connect(
     $host,
     $user,
     $pass,
-    $bd,
+    $bd
 );
 
 
